@@ -1,0 +1,20 @@
+{
+    "name": "Test control IOT",
+    "short_name": "PWA_IRR",
+    "description": "Bienvenido a la aplicacion PWA para testear con una placa arduino",
+    "background_color": "#5D7DD5",
+    "theme_color": "#F8F884",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "./img/tel.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose":"any"
+      }
+    ]
+  }
